@@ -1,0 +1,28 @@
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 255, 0.596); /*não ta funcionando*/
+}
+
+.quem-somos {
+    background-color: rgba(137, 43, 226, 0.568);
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: cornflowerblue;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
